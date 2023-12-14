@@ -1,0 +1,54 @@
+[
+    {
+        "title" : "Project A",
+        "imageSrc" : "projects/project.png",
+        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "demo" : "https://www.example.com",
+        "source" : "https://www.github.com"
+    },
+    {
+        "title" : "Project A",
+        "imageSrc" : "projects/project.png",
+        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "demo" : "https://www.example.com",
+        "source" : "https://www.github.com"
+    }
+    ,
+    {
+        "title" : "Project A",
+        "imageSrc" : "projects/project.png",
+        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "demo" : "https://www.example.com",
+        "source" : "https://www.github.com"
+    }
+    ,
+    {
+        "title" : "Project A",
+        "imageSrc" : "projects/project.png",
+        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "demo" : "https://www.example.com",
+        "source" : "https://www.github.com"
+    }
+    ,
+    {
+        "title" : "Project A",
+        "imageSrc" : "projects/project.png",
+        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "demo" : "https://www.example.com",
+        "source" : "https://www.github.com"
+    }
+    ,
+    {
+        "title" : "Project A",
+        "imageSrc" : "projects/project.png",
+        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "demo" : "https://www.example.com",
+        "source" : "https://www.github.com"
+    }
+]

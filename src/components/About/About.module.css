@@ -1,0 +1,35 @@
+@import "../../vars.css";
+
+.Content{
+    position: relative;
+    background-color: rgba(12, 12, 12, 0.6);
+    border-radius: 15px;
+    padding: 73px;
+    margin-top: 129px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.Title{
+    font-size: 50px;
+    color: var(--color-text);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.Text{
+    font-size: 25px;
+    color: var(--color-text);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 830px){
+    .Title{
+        font-size: 35px;
+    }
+
+    .Text{
+        font-size: 20px;
+    }
+}
