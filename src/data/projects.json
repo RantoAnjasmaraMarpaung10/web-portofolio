@@ -1,54 +1,27 @@
 [
     {
-        "title" : "Project A",
-        "imageSrc" : "projects/project.png",
-        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "title" : "Project ReDesign Website Teknik Informatika Unri",
+        "imageSrc" : "projects/project1.png",
+        "description" : "",
         "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "demo" : "https://www.example.com",
-        "source" : "https://www.github.com"
+        "demo" : "https://unritirs.site/",
+        "source" : "https://github.com/RantoAnjasmaraMarpaung10/Project-UAS.git"
     },
     {
-        "title" : "Project A",
-        "imageSrc" : "projects/project.png",
-        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "title" : "Detikcom Frontend Design Assignment",
+        "imageSrc" : "projects/project2.png",
+        "description" : "",
         "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "demo" : "https://www.example.com",
-        "source" : "https://www.github.com"
+        "demo" : "https://rantoanjasmaramarpaung10.github.io/Detikcom_FrontendDesignAssignment/",
+        "source" : "https://github.com/RantoAnjasmaraMarpaung10/Detikcom_FrontendDesignAssignment.git"
     }
     ,
     {
-        "title" : "Project A",
-        "imageSrc" : "projects/project.png",
-        "description" : "Project ReDesign Website Teknik Informatika Unri",
+        "title" : "Detikcom(CTR ARSA) Frontend Assignment",
+        "imageSrc" : "projects/project3.png",
+        "description" : "",
         "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "demo" : "https://www.example.com",
-        "source" : "https://www.github.com"
-    }
-    ,
-    {
-        "title" : "Project A",
-        "imageSrc" : "projects/project.png",
-        "description" : "Project ReDesign Website Teknik Informatika Unri",
-        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "demo" : "https://www.example.com",
-        "source" : "https://www.github.com"
-    }
-    ,
-    {
-        "title" : "Project A",
-        "imageSrc" : "projects/project.png",
-        "description" : "Project ReDesign Website Teknik Informatika Unri",
-        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "demo" : "https://www.example.com",
-        "source" : "https://www.github.com"
-    }
-    ,
-    {
-        "title" : "Project A",
-        "imageSrc" : "projects/project.png",
-        "description" : "Project ReDesign Website Teknik Informatika Unri",
-        "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        "demo" : "https://www.example.com",
-        "source" : "https://www.github.com"
+        "demo" : "https://rantoanjasmaramarpaung10.github.io/Detikcom-CT-ASRA-Front-End-Design-Assignment/",
+        "source" : "https://github.com/RantoAnjasmaraMarpaung10/Detikcom-CT-ASRA-Front-End-Design-Assignment.git"
     }
 ]

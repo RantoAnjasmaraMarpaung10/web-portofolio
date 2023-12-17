@@ -32,4 +32,9 @@
     .Text{
         font-size: 20px;
     }
+
+    .Content{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
 }
