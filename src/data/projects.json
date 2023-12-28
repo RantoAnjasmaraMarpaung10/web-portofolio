@@ -26,7 +26,7 @@
     },
     {
         "title" : "Portofolio",
-        "imageSrc" : "projects/project3.png",
+        "imageSrc" : "projects/project4.png",
         "description" : "",
         "skills" : ["React JS", "CSS"],
         "demo" : "https://rantoanjasmaramarpaung.vercel.app/",
