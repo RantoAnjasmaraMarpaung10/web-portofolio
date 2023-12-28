@@ -23,5 +23,13 @@
         "skills" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
         "demo" : "https://rantoanjasmaramarpaung10.github.io/Detikcom-CT-ASRA-Front-End-Design-Assignment/",
         "source" : "https://github.com/RantoAnjasmaraMarpaung10/Detikcom-CT-ASRA-Front-End-Design-Assignment.git"
+    },
+    {
+        "title" : "Portofolio",
+        "imageSrc" : "projects/project3.png",
+        "description" : "",
+        "skills" : ["React JS", "CSS"],
+        "demo" : "https://rantoanjasmaramarpaung.vercel.app/",
+        "source" : "https://github.com/RantoAnjasmaraMarpaung10/web-portofolio.git"
     }
 ]
